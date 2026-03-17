@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["NX555ZZKV3.com.Mav.ChristmasMagicJournal"],
+        "components": [
+          {
+            "/": "/journaling-suggestion/*"
+          }
+        ]
+      }
+    ]
+  }
+}
